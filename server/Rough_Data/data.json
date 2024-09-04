@@ -1,0 +1,442 @@
+[
+    {
+        "id": "71e3d6e4-4d0a-4d4b-bd8b-7b7d9d6b9c63",
+        "name": "Sleek Glass Edition",
+        "title": "Translucent Beauty",
+        "price": 27.45,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "349b4d44-29ab-485e-9a37-b9e8913f573a",
+        "name": "Art Deco Leather Tome",
+        "title": "Timeless Class",
+        "price": 33.00,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "12d62a45-b87d-4c91-8978-82a3e1b0fd14",
+        "name": "Modern Steel Chronicle",
+        "title": "Futuristic Tale",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "9d39b8b5-75d6-4c4c-925f-cd84a8d2f23f",
+        "name": "Rustic Iron Guide",
+        "title": "Strong Foundations",
+        "price": 12.50,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "67d2b134-bb4c-4667-8768-7c5e1d16de5c",
+        "name": "Chic Leather Book",
+        "title": "Elegant Design",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "60b5fbb7-5f67-48f4-96e5-56ae4b722b6d",
+        "name": "Bold Plastic Volume",
+        "title": "Contemporary View",
+        "price": 22.75,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "a026d84b-70a8-4e7b-a30d-8de8234ff8eb",
+        "name": "Vintage Iron Tome",
+        "title": "Historical Insight",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "8a1b5456-6a8c-4f1e-bb73-97c8352d1b52",
+        "name": "Elegant Leather Edition",
+        "title": "Classic Details",
+        "price": 29.90,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "1eb70a1f-efc3-4309-90c7-7d458a0541c8",
+        "name": "Modern Crystal Tome",
+        "title": "Clear Concepts",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "b123b369-79a7-4a1e-8cbb-b9d1e4b837c5",
+        "name": "Chic Brass Anthology",
+        "title": "Golden Narrative",
+        "price": 16.80,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "60d28705-4b84-4d58-830a-6b54c52ef7ab",
+        "name": "Rustic Glass Edition",
+        "title": "Pure Elegance",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "03bda2a8-37b6-4d8a-a5f0-1d0cde879b71",
+        "name": "Bold Wooden Guide",
+        "title": "Strong Foundations",
+        "price": 23.40,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "78d52a9e-7651-43ee-9670-c8d9c9208c2b",
+        "name": "Modern Iron Chronicle",
+        "title": "Futuristic Perspectives",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "9a3df48f-b1e0-4c3d-a9d1-d589f3398c98",
+        "name": "Vintage Plastic Novel",
+        "title": "Classic Innovation",
+        "price": 28.00,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "1f4bd87e-e8c7-429d-83b3-cf38ae4e4d92",
+        "name": "Classic Marble Tome",
+        "title": "Elegant Foundations",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "cb3e5e29-6a63-48c6-b08e-e63a5e720d82",
+        "name": "Elegant Plastic Edition",
+        "title": "Contemporary Design",
+        "price": 19.95,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "f0d2e3b1-cb68-47d8-84ed-65e925f8ec63",
+        "name": "Rustic Wooden Volume",
+        "title": "Timeless Elegance",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "8ef22c41-d3ee-4f83-b2dc-8f6d8d674f77",
+        "name": "Modern Brass Chronicle",
+        "title": "Futuristic Perspectives",
+        "price": 30.25,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "d78258d2-c71a-4b68-a6b5-38196c33f9f8",
+        "name": "Vintage Crystal Edition",
+        "title": "Timeless Beauty",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "2c2c4b8c-21bb-4b8e-a622-3d87b8347f47",
+        "name": "Elegant Wooden Tome",
+        "title": "Classic Charm",
+        "price": 15.60,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "ce0471c8-e42f-45a4-8472-4a74d4d88cb5",
+        "name": "Classic Steel Guide",
+        "title": "Modern Insights",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "cbfca3d6-3729-4eb6-bc1a-13cc7c4a4e12",
+        "name": "Sleek Marble Tome",
+        "title": "Elegant Classics",
+        "price": 25.90,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "5e1b74fc-9c34-4f0c-9d8b-e8c1fc9b7c6b",
+        "name": "Chic Crystal Edition",
+        "title": "Modern Charm",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "fd13ea34-44a1-437b-90ea-6f989a4f896b",
+        "name": "Rustic Brass Tome",
+        "title": "Timeless Tale",
+        "price": 14.75,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "88f53951-e02e-4b3c-bc6d-bf953e16fd8b",
+        "name": "Modern Glass Edition",
+        "title": "Contemporary Elegance",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "501e66f4-c97f-4b2a-84e2-f0f3fdf7f93f",
+        "name": "Elegant Steel Volume",
+        "title": "Modern View",
+        "price": 21.40,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "a5b0c4c5-cab3-4e5d-a15d-b489bd14a639",
+        "name": "Vintage Crystal Edition",
+        "title": "Classic Elegance",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "c1d71a45-e8f2-47db-9e38-78eaf2f45279",
+        "name": "Rustic Crystal Tome",
+        "title": "Elegant Perspective",
+        "price": 17.60,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "b5c6a79d-5c4a-45e8-8014-7814dbf1f1fc",
+        "name": "Elegant Iron Edition",
+        "title": "Classic Design",
+        "price": 26.00,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "92c63c60-fc77-4c3c-8d2a-98cde16b4c5a",
+        "name": "Modern Brass Guide",
+        "title": "Contemporary Tale",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "3c946be2-507b-4e79-972b-dab1a91e8d68",
+        "name": "Bold Crystal Chronicle",
+        "title": "Elegant Innovation",
+        "price": 18.85,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "c4e30b6f-d1e1-47f6-a2c6-1d7d7ae8dff6",
+        "name": "Modern Iron Tome",
+        "title": "Futuristic Design",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "087a6fc1-18b2-4d67-8524-dbcf71ffb347",
+        "name": "Classic Brass Tome",
+        "title": "Golden Classics",
+        "price": 13.30,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "bd067634-5e0d-4fa4-923d-f7a62744b13c",
+        "name": "Vintage Brass Tome",
+        "title": "Classic Insight",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "0a3a04e6-72d4-4e27-a438-b6c3f4a63c09",
+        "name": "Chic Steel Guide",
+        "title": "Contemporary Insights",
+        "price": 20.60,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "0bfb8312-b94e-4567-84e6-0642e1ff97d2",
+        "name": "Vintage Plastic Tome",
+        "title": "Classic Elegance",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "fb56e15e-3454-4660-b98b-d9f7f569fd32",
+        "name": "Classic Glass Chronicle",
+        "title": "Modern Vision",
+        "price": 14.90,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "d9db9c4a-045e-437e-8d43-d7c89c49b28e",
+        "name": "Modern Leather Guide",
+        "title": "Contemporary Classics",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "ff6ab118-7a3a-4b3f-9497-bd6346dcf6d6",
+        "name": "Vintage Wooden Tome",
+        "title": "Elegant Chronicles",
+        "price": 26.75,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "91dcfb72-6509-4d43-a0d2-efb9fd1748fc",
+        "name": "Elegant Glass Volume",
+        "title": "Modern Elegance",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "29c2e9fc-4e2c-4860-b527-6d8e4fc2a3c0",
+        "name": "Bold Steel Chronicle",
+        "title": "Contemporary Story",
+        "price": 24.40,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "aa1e8d69-0f87-4b4e-9e2d-3f9c9a3a4c62",
+        "name": "Sleek Marble Edition",
+        "title": "Elegant Innovation",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "f765d9f8-027c-45a0-8a09-2827e7c9276c",
+        "name": "Vintage Glass Volume",
+        "title": "Modern Classics",
+        "price": 19.20,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "02fc68ff-c848-47d6-a7f2-61c3f6c2d2e3",
+        "name": "Bold Crystal Tome",
+        "title": "Classic Vision",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "a0b65b6f-6d65-4d4a-85de-c8aee59a40a4",
+        "name": "Chic Leather Tome",
+        "title": "Modern Classics",
+        "price": 20.90,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "eab0d3f5-458c-4c61-83da-5a3b6fd2c8cb",
+        "name": "Classic Leather Tome",
+        "title": "Golden Tales",
+        "price": 17.80,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "b1b4c6e7-97fd-44c7-89c8-92771ab90e34",
+        "name": "Sleek Glass Volume",
+        "title": "Elegant Stories",
+        "price": 15.45,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "e458f41b-bc8f-4f92-8276-0212d83f2c7e",
+        "name": "Vintage Leather Tome",
+        "title": "Classic Elegance",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "9e17a3a1-d5e4-4a80-a6f5-5159b07e0df4",
+        "name": "Chic Crystal Guide",
+        "title": "Golden Charm",
+        "price": 22.30,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "e4e1a84f-415c-40f0-871f-708e2079d872",
+        "name": "Modern Leather Volume",
+        "title": "Futuristic Insight",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "1d626c3e-c2f8-41d5-bd09-87c433476ab0",
+        "name": "Classic Crystal Chronicle",
+        "title": "Modern Story",
+        "price": 12.75,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "ad2f5e38-8012-4a53-94cb-9b98902ae4fc",
+        "name": "Vintage Crystal Guide",
+        "title": "Elegant Legacy",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "fa1c5f28-67b6-4595-8c8a-103c930f8770",
+        "name": "Sleek Brass Volume",
+        "title": "Golden Vision",
+        "price": 25.75,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "6d7e68a2-0391-45e7-8d48-fad504d6e038",
+        "name": "Vintage Steel Chronicle",
+        "title": "Golden Stories",
+        "price": 28.50,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    },
+    {
+        "id": "4f51f07c-93b5-46c8-bb2e-b52b00ad03cf",
+        "name": "Chic Iron Chronicle",
+        "title": "Golden Perspectives",
+        "price": 14.20,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1725083735~exp=1725087335~hmac=47d4743523651bfd598c59f664888d9d687d324323888d007ff4e8eb2c8ad43d&w=740"
+    }
+]
