@@ -1,7 +1,7 @@
 # Soft-Bookstore
 
 ## Description
-Soft-Bookstore is an online platform that offers a curated collection of books across various genres. The website allows users to browse, search, and purchase books with ease. Designed with a clean and modern interface, Soft-Bookstore aims to provide a seamless shopping experience for book lovers.
+Soft-Bookstore is an online platform that offers a handpicked collection of books in different categories. The website lets users easily browse, search, and buy books. With a simple and modern design, Soft-Bookstore aims to provide a smooth shopping experience for book lovers.
 
 ## Features
 - **User Authentication**: Secure login and registration to manage user accounts.
